@@ -1,5 +1,5 @@
 # Food-Access-Using-ArcGIS
-Comprehensive data analytics project identifying factorsinfluencing residents' access to 
+Comprehensive data analytics project identifying factors influencing residents' access to 
 grocery stores or other food sources without a car and identifying neighborhoods or 
 areas of Charlotte that face limited access to a grocery store. Using ArcGIS, analyzed spatial patterns and Charlotte's infrastructure. Cleaned,
 manipulated, and combined data using Python, and created a binary classification 
